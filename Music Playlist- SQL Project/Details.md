@@ -17,6 +17,7 @@ totals
 5. Who is the best customer? The customer who has spent the most money will be 
 declared the best customer. Write a query that returns the person who has spent the 
 most money
+
 **Question Set 2 – Moderate**
 1. Write query to return the email, first name, last name, & Genre of all Rock Music 
 listeners. Return your list ordered alphabetically by email starting with A
@@ -25,6 +26,7 @@ query that returns the Artist name and total track count of the top 10 rock band
 3. Return all the track names that have a song length longer than the average song length. 
 Return the Name and Milliseconds for each track. Order by the song length with the 
 longest songs listed first
+
 **Question Set 3 – Advance**
 1. Find how much amount spent by each customer on artists? Write a query to return
 customer name, artist name and total spent
